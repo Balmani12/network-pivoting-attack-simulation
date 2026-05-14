@@ -17,7 +17,12 @@ To simulate a real-world internal network penetration testing scenario using piv
 
 - Attacker Machine: Kali Linux  
 - Pivot Machine: Windows 10  
-- Target Machine: Metasploitable  
+- Target Machine: Metasploitable
+
+## 🖼️ Architecture Diagram
+
+![Architecture Diagram](./architecture-diagram.png)
+  
 
 ### Network Configuration
 - Kali ↔ Windows: 192.168.x.x  
