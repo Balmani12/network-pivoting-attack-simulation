@@ -94,3 +94,9 @@ This project was conducted in a controlled lab environment for educational and e
 
 ### Process Enumeration
 ![Process Enumeration](./process-enumeration.png)
+
+ Shell Access Verification
+![Shell Access](./shell-access.png)
+
+
+
