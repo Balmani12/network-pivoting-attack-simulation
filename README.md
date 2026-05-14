@@ -87,6 +87,19 @@ After successful exploitation:
 - Implement network segmentation and monitoring  
 - Use endpoint detection and response (EDR) solutions  
 
+
+----
+
+## 🧠 MITRE ATT&CK Mapping
+
+| Technique | Description |
+|---|---|
+| T1090 | Proxy / Pivoting |
+| T1046 | Network Service Scanning |
+| T1210 | Exploitation of Remote Services |
+| T1021 | Remote Services |
+| T1059 | Command and Scripting Interpreter |
+
 ---
 
 ## ⚠️ Disclaimer
