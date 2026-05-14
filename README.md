@@ -86,3 +86,11 @@ After successful exploitation:
 
 ## ⚠️ Disclaimer
 This project was conducted in a controlled lab environment for educational and ethical purposes only. Do not attempt these techniques on unauthorized systems.
+
+## 📸 Screenshots
+
+### Meterpreter Session
+![Meterpreter Session](./meterpreter.png)
+
+### Process Enumeration
+![Process Enumeration](./process-enumeration.png)
